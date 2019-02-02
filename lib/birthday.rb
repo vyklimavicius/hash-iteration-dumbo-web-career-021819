@@ -5,7 +5,7 @@
 # }
 
 def happy_birthday(birthday_kids)
-  winner = ""
+  
   
 end
 
